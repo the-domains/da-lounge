@@ -1,0 +1,14 @@
+layout_spectrum: 0.7213423016946763
+typography_spectrum: 0.7128853106405586
+color:
+  brandStrength: 0.34130660141818225
+  lightness: 0.7149558309465647
+  saturation: 0.6525154239498079
+  rhythmicContrast: 0.9807877552229911
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: "Da' Lounge"
